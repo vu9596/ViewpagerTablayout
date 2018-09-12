@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">ViewpagerTablayout</string>
+    <string name="app_name">FramViewPager</string>
+    <string name="tittle_tab_1">Tab 1</string>
+    <string name="title_tab_2">Tab 2</string>
+    <string name="title_tab_3">Tab 3</string>
+    <string name="title_tab_4">Tab 4</string>
+    <string name="title_tab_5">Tab 5</string>
+    <string name="title_tab_6">Tab 6</string>
 </resources>
